@@ -1,8 +1,0 @@
-[Research Node] Executing advanced crawl on: https://example.com
-
---- INGESTED CONTENT ---
-
-Example Domain Example Domain This domain is for use in documentation examples without needing permission. Avoid use in operations. Learn more
-
---- END OF CRAWL ---
-
