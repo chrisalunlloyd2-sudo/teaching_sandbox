@@ -2,7 +2,7 @@
 
 > teaching_sandbox — part of the Viper RAID-0 workstation system.
 
-*Auto-generated 2026-06-20 07:12 from source — branch `main`, 1 Python modules, 31 other files.*
+*Auto-generated 2026-06-20 15:11 from source — branch `main`, 1 Python modules, 31 other files.*
 
 ## Architecture
 
@@ -40,11 +40,12 @@ This project exposes modules for import; no standalone entry points detected.
 ## Status
 
 - Branch: `main`
-- Last commit: 2026-06-20 06:48:48 -0600
+- Last commit: 2026-06-20 07:20:40 -0600
 - File types: .md ×30, .txt ×1
 
 ### Recent commits
 ```
+c0f16e1 [Moe autonomous] teaching_sandbox 2026-06-20 07:20
 3414a70 [Moe autonomous] teaching_sandbox 2026-06-20 06:48
 d3b13ea [Moe autonomous] teaching_sandbox 2026-06-20 06:17
 4725200 [Moe autonomous] teaching_sandbox 2026-06-20 02:09
@@ -52,7 +53,6 @@ d3b13ea [Moe autonomous] teaching_sandbox 2026-06-20 06:17
 8e927df [PERMUTATION] Gen 999 - Kernel: Deep-Python-Kernel
 cd5e9c6 [PERMUTATION] Gen 8 - Kernel: Triton-Accelerated-Kernel
 fd4a5ae [PERMUTATION] Gen 7 - Kernel: Fast-Go-Kernel
-5c5b59f [PERMUTATION] Gen 6 - Kernel: Triton-Accelerated-Kernel
 ```
 
 ---
