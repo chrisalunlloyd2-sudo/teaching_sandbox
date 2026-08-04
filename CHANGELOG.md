@@ -39,6 +39,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-06
 - **[Docs]** docs(teaching_sandbox): autonomous update ΓÇö 1 file(s) ($hash)
@@ -56,5 +57,4 @@ All notable changes to this project.
 ## 2026-05
 - **[Changed]** [PERMUTATION] Gen 999 - Kernel: Deep-Python-Kernel ($hash)
 - **[Changed]** [PERMUTATION] Gen 8 - Kernel: Triton-Accelerated-Kernel ($hash)
-- **[Changed]** [PERMUTATION] Gen 7 - Kernel: Fast-Go-Kernel ($hash)
 
