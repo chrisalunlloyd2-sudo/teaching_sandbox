@@ -52,7 +52,5 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
-
-## 2026-06
-- **[Docs]** docs(teaching_sandbox): autonomous update ΓÇö 1 file(s) ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
